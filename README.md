@@ -1,6 +1,7 @@
 <img width="1440" height="810" alt="HardCode_Launcher" src="https://github.com/user-attachments/assets/0afe0768-e91f-4d92-b305-f5ae45174bb5" />
 
-https://www.youtube.com/watch?v=ZaDmjrUgc90
+# Video
+[Youtube]([https://github.com/Chatdisabled](https://www.youtube.com/watch?v=ZaDmjrUgc90))
 
 # Launcher (with Auto-Updater)
 
