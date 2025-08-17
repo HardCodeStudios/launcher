@@ -1,7 +1,6 @@
 <img width="1440" height="810" alt="HardCode_Launcher" src="https://github.com/user-attachments/assets/0afe0768-e91f-4d92-b305-f5ae45174bb5" />
 
-# Video
-[Youtube](https://www.youtube.com/watch?v=ZaDmjrUgc90)
+# [Youtube](https://www.youtube.com/watch?v=ZaDmjrUgc90)
 
 This guide explains how to install prerequisites, run the **Launcher**, and configure the **auto-update system** via GitHub.
 
